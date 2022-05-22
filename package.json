@@ -1,0 +1,10 @@
+{
+  "name": "haversine-wasm",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "./build.sh"
+  }
+}
