@@ -1,7 +1,5 @@
 {
-  "name": "haversine-wasm",
-  "version": "0.2.0",
-  "license": "UNLICENSED",
+  "private": "true",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
